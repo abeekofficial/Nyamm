@@ -85,7 +85,7 @@ const dishes: Dish[] = [
     nameUz: "No'rin",
     description: "Cold noodle dish with horse meat and vegetables",
     descriptionUz: "Ot go'shti va sabzavotlar bilan sovuq xamir taomi",
-    category: "Cold Dish",
+    category: "Cold Dish",                                                                                                                                                              
     price: 32000,
     image: "/uzbek-norin-cold-noodles.jpg",
     ingredients: ["Thin noodles", "Horse meat/Beef", "Onions", "Radish", "Spices"],
